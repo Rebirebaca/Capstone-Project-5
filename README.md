@@ -89,6 +89,9 @@ Deploy the Streamlit application on the Render platform to make it accessible to
 Thoroughly test the deployed application to ensure it functions correctly and provides accurate predictions.You can test the application by inputting different flat details and
 verifying that the predicted resale prices are reasonable.
 
+## Conclusion:
+This project will provide you with valuable experience in data wrangling, EDA, model building, model deployment, and web development. You will also learn about the real estate market in Singapore
+
 
 
 
