@@ -5,7 +5,7 @@ from streamlit_option_menu import option_menu
 
 
 # Load the model
-with open("C:\\Users\\jenis\\Desktop\\project_files\\decisiontree.pkl",'rb') as f:
+with open("decisiontree.pkl",'rb') as f:
     model = pickle.load(f)
 
 # Feature names:
